@@ -9,6 +9,9 @@
 import UIKit
 import CoreData
 
+let kUserNameKey = "userNameKey"
+let kPasswordKey = "passwordKey"
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
